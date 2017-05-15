@@ -17,6 +17,8 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 
 public class QuickReturnFloaterBehavior extends CoordinatorLayout.Behavior<View> {
 
+
+
     private int distance;
 
     public QuickReturnFloaterBehavior(Context context, AttributeSet attrs) {
